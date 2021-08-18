@@ -1,4 +1,4 @@
-service: aws-python-simple-http-endpoint-cajecasu
+service: aws-python-simple-http-endpoint-jofelipelo
 
 frameworkVersion: ">=1.2.0"
 
