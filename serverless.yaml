@@ -1,4 +1,4 @@
-service: aws-python-simple-http-endpoint-jofelipelo
+service: aws-python-simple-http-endpoint-jfl
 
 frameworkVersion: ">=1.2.0"
 
