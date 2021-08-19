@@ -1,6 +1,6 @@
 //SCAN TABLE:
 var params = {
-    TableName: 'Market',
+    TableName: 'MarketCajecasu',
     ReturnConsumedCapacity: 'NONE'
 };
 dynamodb.scan(params, function(err, data) {
@@ -12,7 +12,7 @@ dynamodb.scan(params, function(err, data) {
 //INSERT MARKET ITEMS:
 var params = {
     RequestItems: {
-        Market: [
+        MarketCajecasu: [
             { 
                 PutRequest: {
                     Item: {     
